@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Kit Juicy Kiss + Óleo Paixão Avelã + Hidratante Paixão Avelã",
+    "description": "Kit com 3 produtos: Body Splash Juicy Kiss, óleo corporal Paixão Avelã 100ml e hidratante Paixão Avelã 200ml.",
+    "price": 16500,
+    "stock": 15,
+    "category": "Perfumaria",
+    "subcategory": "Kit",
+    "is_wholesale": false,
+    "wholesale_price": null,
+    "is_kit": true,
+    "sizes": [],
+    "colors": [],
+    "images": [
+      "/imagem/produtos/Kit-Lua&Neve-Juicy-Kiss-Paixao-Avela.png"
+    ],
+    "video_url": "/video/kitAvela.mp4",
+    "is_active": true
+  },
+  {
+    "name": "Kit Juicy Kiss + Óleo Paixão Framboesa Negra + Hidratante Paixão Framboesa Negra",
+    "description": "Kit com 3 produtos: Body Splash Juicy Kiss, óleo corporal Paixão Framboesa Negra 100ml e hidratante Paixão Framboesa Negra 200ml.",
+    "price": 16500,
+    "stock": 15,
+    "category": "Perfumaria",
+    "subcategory": "Kit",
+    "is_wholesale": false,
+    "wholesale_price": null,
+    "is_kit": true,
+    "sizes": [],
+    "colors": [],
+    "images": [
+      "/imagem/produtos/Kit-Lua&Neve-Juicy-Kiss-Paixao-Frambroesa-Negra.png"
+    ],
+    "video_url": "/video/kitFramboesaNegra.mp4",
+    "is_active": true
+  },
+  {
+    "name": "Kit Juicy Kiss + Óleo Paixão Tentadora + Hidratante Paixão Tentadora",
+    "description": "Kit com 3 produtos: Body Splash Juicy Kiss, óleo corporal Paixão Tentadora 100ml e hidratante Paixão Tentadora 200ml.",
+    "price": 16500,
+    "stock": 15,
+    "category": "Perfumaria",
+    "subcategory": "Kit",
+    "is_wholesale": false,
+    "wholesale_price": null,
+    "is_kit": true,
+    "sizes": [],
+    "colors": [],
+    "images": [
+      "/imagem/produtos/Kit-Lua&Neve-Juicy-Kiss-Paixao-Tentadora.png"
+    ],
+    "video_url": "/video/kitTentadora.mp4",
+    "is_active": true
+  },
+  {
+    "name": "Kit Purple Love + Óleo Paixão Avelã + Hidratante Paixão Avelã",
+    "description": "Kit com 3 produtos: Body Splash Purple Love, óleo corporal Paixão Avelã 100ml e hidratante Paixão Avelã 200ml.",
+    "price": 16500,
+    "stock": 15,
+    "category": "Perfumaria",
+    "subcategory": "Kit",
+    "is_wholesale": false,
+    "wholesale_price": null,
+    "is_kit": true,
+    "sizes": [],
+    "colors": [],
+    "images": [
+      "/imagem/produtos/Kit-Lua&Neve-Purple-Love-Paixao-Avela.png"
+    ],
+    "video_url": "/video/kitAvela.mp4",
+    "is_active": true
+  },
+  {
+    "name": "Kit Purple Love + Óleo Paixão Framboesa Negra + Hidratante Paixão Framboesa Negra",
+    "description": "Kit com 3 produtos: Body Splash Purple Love, óleo corporal Paixão Framboesa Negra 100ml e hidratante Paixão Framboesa Negra 200ml.",
+    "price": 16500,
+    "stock": 15,
+    "category": "Perfumaria",
+    "subcategory": "Kit",
+    "is_wholesale": false,
+    "wholesale_price": null,
+    "is_kit": true,
+    "sizes": [],
+    "colors": [],
+    "images": [
+      "/imagem/produtos/Kit-Lua&Neve-Purple-Love-Paixao-Frambroesa-Negra.png"
+    ],
+    "video_url": "/video/kitFramboesaNegra.mp4",
+    "is_active": true
+  },
+  {
+    "name": "Kit Purple Love + Óleo Paixão Tentadora + Hidratante Paixão Tentadora",
+    "description": "Kit com 3 produtos: Body Splash Purple Love, óleo corporal Paixão Tentadora 100ml e hidratante Paixão Tentadora 200ml.",
+    "price": 16500,
+    "stock": 15,
+    "category": "Perfumaria",
+    "subcategory": "Kit",
+    "is_wholesale": false,
+    "wholesale_price": null,
+    "is_kit": true,
+    "sizes": [],
+    "colors": [],
+    "images": [
+      "/imagem/produtos/Kit-Lua&Neve-Purple-Love-Paixao-Tentadora.png"
+    ],
+    "video_url": "/video/kitTentadora.mp4",
+    "is_active": true
+  },
+  {
+    "name": "Kit Sweet Snow + Óleo Paixão Framboesa Negra + Hidratante Paixão Framboesa Negra",
+    "description": "Kit com 3 produtos: Body Splash Sweet Snow, óleo corporal Paixão Framboesa Negra 100ml e hidratante Paixão Framboesa Negra 200ml.",
+    "price": 16500,
+    "stock": 15,
+    "category": "Perfumaria",
+    "subcategory": "Kit",
+    "is_wholesale": false,
+    "wholesale_price": null,
+    "is_kit": true,
+    "sizes": [],
+    "colors": [],
+    "images": [
+      "/imagem/produtos/Kit-Lua&Neve-Sweet-Snow-Paixao-Frambroesa-Negra.png"
+    ],
+    "video_url": "/video/kitFramboesaNegra.mp4",
+    "is_active": true
+  },
+  {
+    "name": "Kit Sweet Snow + Óleo Paixão Tentadora + Hidratante Paixão Tentadora",
+    "description": "Kit com 3 produtos: Body Splash Sweet Snow, óleo corporal Paixão Tentadora 100ml e hidratante Paixão Tentadora 200ml.",
+    "price": 16500,
+    "stock": 15,
+    "category": "Perfumaria",
+    "subcategory": "Kit",
+    "is_wholesale": false,
+    "wholesale_price": null,
+    "is_kit": true,
+    "sizes": [],
+    "colors": [],
+    "images": [
+      "/imagem/produtos/Kit-Lua&Neve-Sweet-Snow-Paixao-Tentadora.png"
+    ],
+    "video_url": "/video/kitTentadora.mp4",
+    "is_active": true
+  },
+  {
+    "name": "Kit Vanilla Chann + Óleo Paixão Baunilha + Hidratante Paixão Baunilha",
+    "description": "Kit com 3 produtos: Body Splash Vanilla Chann, óleo corporal Paixão Flor de Baunilha 100ml e hidratante Paixão Flor de Baunilha 200ml.",
+    "price": 16500,
+    "stock": 15,
+    "category": "Perfumaria",
+    "subcategory": "Kit",
+    "is_wholesale": false,
+    "wholesale_price": null,
+    "is_kit": true,
+    "sizes": [],
+    "colors": [],
+    "images": [
+      "/imagem/produtos/Kit-Lua&Neve-Vaniila-Chann-Baunilha.png"
+    ],
+    "video_url": "/video/kitBaunilha.mp4",
+    "is_active": true
+  },
+  {
+    "name": "Kit Vanilla Chann + Óleo Paixão Framboesa Negra + Hidratante Paixão Framboesa Negra",
+    "description": "Kit com 3 produtos: Body Splash Vanilla Chann, óleo corporal Paixão Framboesa Negra 100ml e hidratante Paixão Framboesa Negra 200ml.",
+    "price": 16500,
+    "stock": 15,
+    "category": "Perfumaria",
+    "subcategory": "Kit",
+    "is_wholesale": false,
+    "wholesale_price": null,
+    "is_kit": true,
+    "sizes": [],
+    "colors": [],
+    "images": [
+      "/imagem/produtos/Kit-Lua&Neve-Vaniila-Chann-Paixao-Frambroesa-Negra.png"
+    ],
+    "video_url": "/video/kitFramboesaNegra.mp4",
+    "is_active": true
+  },
+  {
+    "name": "Kit Vanilla Chann + Óleo Paixão Tentadora + Hidratante Paixão Tentadora",
+    "description": "Kit com 3 produtos: Body Splash Vanilla Chann, óleo corporal Paixão Tentadora 100ml e hidratante Paixão Tentadora 200ml.",
+    "price": 16500,
+    "stock": 15,
+    "category": "Perfumaria",
+    "subcategory": "Kit",
+    "is_wholesale": false,
+    "wholesale_price": null,
+    "is_kit": true,
+    "sizes": [],
+    "colors": [],
+    "images": [
+      "/imagem/produtos/Kit-Lua&Neve-Vaniila-Chann-Paixao-Tentadora.png"
+    ],
+    "video_url": "/video/kitTentadora.mp4",
+    "is_active": true
+  },
+  {
+    "name": "Kit Promocional Sweet Snow + Óleo Paixão Baunilha + Hidratante Paixão Baunilha",
+    "description": "Kit promocional com 3 produtos: Body Splash Sweet Snow, óleo corporal Paixão Flor de Baunilha 100ml e hidratante Paixão Flor de Baunilha 200ml.",
+    "price": 16500,
+    "stock": 15,
+    "category": "Perfumaria",
+    "subcategory": "Kit",
+    "is_wholesale": false,
+    "wholesale_price": null,
+    "is_kit": true,
+    "sizes": [],
+    "colors": [],
+    "images": [
+      "/imagem/produtos/kit-bodyspash-oleo-creme-baunilha.jpeg"
+    ],
+    "video_url": "/video/KITPromoçãoEspecial1.mp4",
+    "is_active": true
+  }
+]

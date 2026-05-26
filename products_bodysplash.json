@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Body Splash Lua & Neve Juicy Kiss 200ml",
+    "description": "Body Splash Lua & Neve Juicy Kiss 200ml. Fragrância feminina, refrescante e marcante para o dia a dia.",
+    "price": 6000,
+    "stock": 20,
+    "category": "Perfumaria",
+    "subcategory": "Body Splash",
+    "is_wholesale": false,
+    "wholesale_price": null,
+    "is_kit": false,
+    "sizes": [],
+    "colors": [],
+    "images": [
+      "/imagem/produtos/Lua&Neve-Juicy-Kiss.png"
+    ],
+    "video_url": "/video/bodyplashsweetvideo.mp4",
+    "is_active": true
+  },
+  {
+    "name": "Body Splash Lua & Neve Purple Love 200ml",
+    "description": "Body Splash Lua & Neve Purple Love 200ml. Perfume corporal elegante, suave e ideal para todas as ocasiões.",
+    "price": 6000,
+    "stock": 20,
+    "category": "Perfumaria",
+    "subcategory": "Body Splash",
+    "is_wholesale": false,
+    "wholesale_price": null,
+    "is_kit": false,
+    "sizes": [],
+    "colors": [],
+    "images": [
+      "/imagem/produtos/Lua&Neve-Purple-Love.png"
+    ],
+    "video_url": "/video/bodyplashsweetvideo.mp4",
+    "is_active": true
+  },
+  {
+    "name": "Body Splash Lua & Neve Sweet Snow 200ml",
+    "description": "Body Splash Lua & Neve Sweet Snow 200ml. Fragrância fresca e envolvente para uso diário.",
+    "price": 6000,
+    "stock": 20,
+    "category": "Perfumaria",
+    "subcategory": "Body Splash",
+    "is_wholesale": false,
+    "wholesale_price": null,
+    "is_kit": false,
+    "sizes": [],
+    "colors": [],
+    "images": [
+      "/imagem/produtos/Lua&Neve-Sweet-Snow.png"
+    ],
+    "video_url": "/video/luaneve.mp4",
+    "is_active": true
+  },
+  {
+    "name": "Body Splash Lua & Neve Vanilla Chann 200ml",
+    "description": "Body Splash Lua & Neve Vanilla Chann 200ml. Aroma doce e sofisticado com ótima perfumação.",
+    "price": 6000,
+    "stock": 20,
+    "category": "Perfumaria",
+    "subcategory": "Body Splash",
+    "is_wholesale": false,
+    "wholesale_price": null,
+    "is_kit": false,
+    "sizes": [],
+    "colors": [],
+    "images": [
+      "/imagem/produtos/Lua&Neve-Vaniila-Chann.png"
+    ],
+    "video_url": "/video/videobaunilha.mp4",
+    "is_active": true
+  },
+  {
+    "name": "Body Splash Lua & Tone Pink Summer 230ml",
+    "description": "Body Splash Lua & Tone Pink Summer 230ml. Fragrância leve, refrescante e perfeita para o dia a dia.",
+    "price": 6000,
+    "stock": 20,
+    "category": "Perfumaria",
+    "subcategory": "Body Splash",
+    "is_wholesale": false,
+    "wholesale_price": null,
+    "is_kit": false,
+    "sizes": [],
+    "colors": [],
+    "images": [
+      "/imagem/produtos/bodySpash-Summer.jpeg"
+    ],
+    "video_url": "/video/bodyplashsweetvideo.mp4",
+    "is_active": true
+  },
+  {
+    "name": "Body Splash Lua & Neve Sweet Rouge 200ml",
+    "description": "Body Splash Lua & Neve Sweet Rouge 200ml. Fragrância intensa, feminina e muito agradável.",
+    "price": 6000,
+    "stock": 20,
+    "category": "Perfumaria",
+    "subcategory": "Body Splash",
+    "is_wholesale": false,
+    "wholesale_price": null,
+    "is_kit": false,
+    "sizes": [],
+    "colors": [],
+    "images": [
+      "/imagem/produtos/bodysplashsweetrouge-lua5.jpeg"
+    ],
+    "video_url": "/video/BodysPlashSweetRougeLuavideo.mp4",
+    "is_active": true
+  }
+]

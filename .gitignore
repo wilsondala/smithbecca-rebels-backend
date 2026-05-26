@@ -1,0 +1,7 @@
+uploads/
+.env
+venv/
+__pycache__/
+*.pyc
+backend.tar.gz
+*.tar.gz

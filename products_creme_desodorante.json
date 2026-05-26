@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Creme Desodorante Herbíssimo Fresh 55g",
+    "description": "Creme desodorante Herbíssimo Fresh 55g. Proteção antitranspirante, toque seco e sensação refrescante.",
+    "price": 4500,
+    "stock": 20,
+    "category": "Perfumaria",
+    "subcategory": "Creme Desodorante",
+    "is_wholesale": false,
+    "wholesale_price": null,
+    "is_kit": false,
+    "sizes": [],
+    "colors": [],
+    "images": [
+      "/imagem/produtos/creme-desodorante/creme1.jpeg"
+    ],
+    "video_url": null,
+    "is_active": true
+  },
+  {
+    "name": "Creme Desodorante Herbíssimo Neutro 55g",
+    "description": "Creme desodorante Herbíssimo Neutro 55g. Proteção antitranspirante com fórmula suave para o dia a dia.",
+    "price": 4500,
+    "stock": 20,
+    "category": "Perfumaria",
+    "subcategory": "Creme Desodorante",
+    "is_wholesale": false,
+    "wholesale_price": null,
+    "is_kit": false,
+    "sizes": [],
+    "colors": [],
+    "images": [
+      "/imagem/produtos/creme-desodorante/creme2.jpeg"
+    ],
+    "video_url": null,
+    "is_active": true
+  },
+  {
+    "name": "Creme Desodorante Herbíssimo Talco 55g",
+    "description": "Creme desodorante Herbíssimo Talco 55g. Proteção antitranspirante com fragrância suave de talco.",
+    "price": 4500,
+    "stock": 20,
+    "category": "Perfumaria",
+    "subcategory": "Creme Desodorante",
+    "is_wholesale": false,
+    "wholesale_price": null,
+    "is_kit": false,
+    "sizes": [],
+    "colors": [],
+    "images": [
+      "/imagem/produtos/creme-desodorante/creme3.jpeg"
+    ],
+    "video_url": null,
+    "is_active": true
+  },
+  {
+    "name": "Creme Desodorante Herbíssimo Lavanda 55g",
+    "description": "Creme desodorante Herbíssimo Lavanda 55g. Proteção antitranspirante com fragrância delicada de lavanda.",
+    "price": 4500,
+    "stock": 20,
+    "category": "Perfumaria",
+    "subcategory": "Creme Desodorante",
+    "is_wholesale": false,
+    "wholesale_price": null,
+    "is_kit": false,
+    "sizes": [],
+    "colors": [],
+    "images": [
+      "/imagem/produtos/creme-desodorante/creme4.jpeg"
+    ],
+    "video_url": null,
+    "is_active": true
+  },
+  {
+    "name": "Creme Desodorante Herbíssimo Tradicional 55g",
+    "description": "Creme desodorante Herbíssimo Tradicional 55g. Proteção antitranspirante com fórmula clássica e eficaz.",
+    "price": 4500,
+    "stock": 20,
+    "category": "Perfumaria",
+    "subcategory": "Creme Desodorante",
+    "is_wholesale": false,
+    "wholesale_price": null,
+    "is_kit": false,
+    "sizes": [],
+    "colors": [],
+    "images": [
+      "/imagem/produtos/creme-desodorante/creme5.jpeg"
+    ],
+    "video_url": null,
+    "is_active": true
+  },
+  {
+    "name": "Creme Desodorante Herbíssimo Sensitive 55g",
+    "description": "Creme desodorante Herbíssimo Sensitive 55g. Proteção antitranspirante com fórmula suave para peles sensíveis.",
+    "price": 4500,
+    "stock": 20,
+    "category": "Perfumaria",
+    "subcategory": "Creme Desodorante",
+    "is_wholesale": false,
+    "wholesale_price": null,
+    "is_kit": false,
+    "sizes": [],
+    "colors": [],
+    "images": [
+      "/imagem/produtos/creme-desodorante/creme6.jpeg"
+    ],
+    "video_url": null,
+    "is_active": true
+  }
+]

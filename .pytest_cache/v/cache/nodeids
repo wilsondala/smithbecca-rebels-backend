@@ -1,0 +1,8 @@
+[
+  "app/tests/test_order_delivery_fee.py::test_order_has_delivery_fee",
+  "app/tests/test_order_message.py::test_build_order_message",
+  "app/tests/test_order_payment_method.py::test_payment_on_delivery",
+  "app/tests/test_order_whatsapp_status.py::test_order_status_changes_to_sent",
+  "app/tests/test_whatsapp_only.py::test_whatsapp_link_simple",
+  "app/tests/test_whatsapp_service.py::test_generate_whatsapp_link"
+]
